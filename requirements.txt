@@ -1,0 +1,6 @@
+yfinance==0.2.29
+pandas==2.1.1
+matplotlib==3.8.0
+numpy==1.27.4
+tkinter==0.1.0
+requests==2.31.0
