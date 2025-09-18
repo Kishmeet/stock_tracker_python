@@ -14,10 +14,10 @@ A simple Python application built during my **2nd semester** to track real-time 
 ---
 
 ## 🛠️ Tech Stack
-- **Python**
+- **`Python`**
 - `yfinance` – real-time market data
 - `pandas` – data handling
 - `matplotlib` – plotting performance graphs
-- `forex-python` (or similar) – currency conversion to INR
+
 
 ---
